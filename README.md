@@ -1,7 +1,9 @@
 # vooby
 STEEM Tag Voting Bot 
 
-More info: https://steemit.com/steemdev/@klye/vooby-steem-bot-v0-0-1-open-source-nodejs-introduceyourself-upvoting-script
+See the release on Steemit.com:
+
+https://steemit.com/steemdev/@klye/vooby-steem-bot-v0-0-1-open-source-nodejs-introduceyourself-upvoting-script
 
 Description:
 
